@@ -15,7 +15,7 @@ setup(
     ],
     long_description=long_description,
     long_description_content_type="text/markdown",
-    install_requires = ['algoutils', 'requests', 'urllib', 'hmac', 'hashlib',],
+    install_requires = ['algoutils', 'requests',],
     extras_require = {
         "dev" : [
             "pytest>=3.7",
