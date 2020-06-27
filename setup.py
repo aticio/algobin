@@ -5,7 +5,7 @@ with open("README.md","r") as fh:
 
 setup(
     name="algobin",
-    version="0.0.1",
+    version="0.0.2",
     description="Basic trading operations of binance to be used in algorithmic trading.",
     py_modules=["algobin"],
     classifiers=[
